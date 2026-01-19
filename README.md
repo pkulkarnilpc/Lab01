@@ -1,4 +1,4 @@
-# Lab 1, Part A
+# Week 2 Mon Lab
 
 ## Directions
 
@@ -38,3 +38,4 @@ Orange chicken with white rice
 (sent from address 0x800012998)
 ****************************************
 ```
+
